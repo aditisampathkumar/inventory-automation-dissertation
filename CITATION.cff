@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Automating Inventory Replenishment: A Product Association-Based System for Creating Automated Shopping Lists"
+authors:
+  - family-names: "Sampathkumar"
+    given-names: "Aditi"
+date-released: "2024-11-12"
+url: "https://github.com/aditisampathkumar/inventory-automation-dissertation"
+abstract: >
+  This dissertation investigates the automation of inventory replenishment in the hospitality (food and beverage) industry using a data-driven approach centred around product association and statistical forecasting. Traditional manual inventory management methods are often inefficient, leading to issues such as stockouts or overstocking, which can negatively impact operational efficiency and cost management. This research proposes a product association-based system that leverages frequent pattern mining and demand forecasting, integrating Demand-Driven Material Requirements Planning (DDMRP) principles to automate the generation of dynamic shopping lists. The implemented system utilizes algorithms such as the Apriori algorithm for association rule learning, advanced time-series forecasting models including SARIMA and Prophet, and clustering methods like K-Means to optimize stock levels and minimize waste. Additionally, machine learning models such as Random Forest, Long Short-Term Memory (LSTM) networks, Multi-Layer Perceptron (MLP), and Convolutional Neural Networks (CNN) were tested to predict demand and optimize stock levels. The system’s effectiveness is evaluated through comprehensive analysis, demonstrating its potential to significantly improve inventory management by ensuring timely replenishment and reducing excess stock, thereby enhancing overall operational efficiency and cost-effectiveness in the hospitality sector. The integration of these advanced techniques provides a robust solution that not only meets current needs but also offers scalability for future applications in broader supply chain management contexts.
+keywords:
+  - Inventory Management
+  - DDMRP
+  - Machine Learning
+  - Product Association
+  - Supply Chain Optimization
