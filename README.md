@@ -5,6 +5,9 @@ This repository hosts the final draft of my Master's dissertation titled **"Auto
 ## Abstract
 This research focuses on creating a product association-based system to generate automated shopping lists by using techniques like DDMRP, association rule mining, and advanced machine learning models. The proposed system aims to optimize stock levels and improve operational efficiency in the hospitality sector.
 
+### Original Submission Date
+Submitted: August 28, 2024
+
 ## Repository Contents
 - **Dissertation.pdf**: The full text of the dissertation.
 - **LICENSE**: Terms of use and distribution.
