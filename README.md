@@ -19,6 +19,7 @@ Submitted: August 28, 2024
 - **Dissertation.pdf**: The full text of the dissertation.
 - **LICENSE**: Terms of use and distribution.
 - **Citation Information**: Information on how to cite this work (see below).
+- **Dissertation PDF**: A final draft of my dissertation, available in PDF format.
 
 ## Citation
 If referencing this work, please use the following citation:
