@@ -13,3 +13,11 @@ This research focuses on creating a product association-based system to generate
 ## Citation
 If referencing this work, please use the following citation:
 Sampathkumar, A. (2024). Automating Inventory Replenishment: A Product Association-Based System for Creating Automated Shopping Lists. University of Exeter. Retrieved from https://github.com/aditisampathkumar/inventory-automation-dissertation
+
+
+## Contact
+For any questions or feedback, please contact me at as1453@exeter.ac.uk.
+
+---
+
+**Note**: This repository is for academic purposes, and the dissertation content is licensed for non-commercial use only.
